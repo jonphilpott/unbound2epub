@@ -15,13 +15,18 @@ width: 600px;
 }
 
 p {
-width: 60%;
-margin-left: 2em;
-margin-right: auto;
+width: 80%;
+margin-left: 10%;
+margin-right: 10%;
 margin-bottom: .5em;
 }
 
 sup {
     font-size: 12px;
     margin-right: 4px;
+}
+
+.header {
+    font-size: 10px;
+    text-align: center;
 }
